@@ -7,3 +7,8 @@ const salaSport = {
 };
 
 console.log(`Bine ați venit la ${salaSport.nume}!`);
+
+function adaugaMembru(id, nume, tipAbonament) {
+    salaSport.membri.push({ id, nume, tipAbonament, activ: true });
+    console.log(`Membrul ${nume} a fost adăugat.`);
+}
