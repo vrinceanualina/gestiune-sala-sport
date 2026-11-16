@@ -1,7 +1,7 @@
 console.log("=== Sistem de Gestiune Sală de Sport ===");
 
 const salaSport = {
-    nume: "FitZone Gym",
+    nume: "FitZone Gym - NON-STOP",
     adresa: "Str. Calea Iesilor 6/9",
     membri: []
 };
