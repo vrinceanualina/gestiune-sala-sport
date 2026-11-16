@@ -12,3 +12,6 @@ function adaugaMembru(id, nume, tipAbonament) {
     salaSport.membri.push({ id, nume, tipAbonament, activ: true });
     console.log(`Membrul ${nume} a fost adăugat.`);
 }
+
+adaugaMembru(1, "Simona Isac", "Lunar");
+adaugaMembru(2, "Jasmina Varzari", "Anual");
