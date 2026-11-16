@@ -15,3 +15,8 @@ function adaugaMembru(id, nume, tipAbonament) {
 
 adaugaMembru(1, "Simona Isac", "Lunar");
 adaugaMembru(2, "Jasmina Varzari", "Anual");
+
+function listeazaMembri() {
+    console.log("Lista membrilor:", salaSport.membri);
+}
+listeazaMembri();
