@@ -2,3 +2,4 @@
 Aplicație JavaScript pentru administrarea membrilor, abonamentelor și antrenorilor.
 modificare realizata direct in GitHub
 Modificare realizata local in VS Code
+- Modul nou: Gestiune plati si reduceri abonamente.
