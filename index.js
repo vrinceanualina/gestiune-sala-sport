@@ -22,4 +22,3 @@ function listeazaMembri() {
 listeazaMembri();
 salaSport.incasariTotale = 0;
 function inregistreazaPlata(suma) { salaSport.incasariTotale += suma; }
-console.log('TEST GRESIT');
