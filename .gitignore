@@ -1,2 +1,4 @@
+config.local.json
+*.tmp
 *.log
-parole.txt
+temp_build/
