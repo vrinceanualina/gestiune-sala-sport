@@ -3,3 +3,4 @@ function calculeazaPret(tip) {
     return preturiAbonamente[tip] || 0;
 }
 module.exports = { calculeazaPret };
+function aplicaReducereStudent(pret) { return pret * 0.8; }
