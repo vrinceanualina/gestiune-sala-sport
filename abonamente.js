@@ -4,3 +4,4 @@ function calculeazaPret(tip) {
 }
 module.exports = { calculeazaPret };
 function aplicaReducereStudent(pret) { return pret * 0.8; }
+// Validare pret minim
