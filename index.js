@@ -20,3 +20,5 @@ function listeazaMembri() {
     console.log("Lista membrilor:", salaSport.membri);
 }
 listeazaMembri();
+salaSport.incasariTotale = 0;
+function inregistreazaPlata(suma) { salaSport.incasariTotale += suma; }
